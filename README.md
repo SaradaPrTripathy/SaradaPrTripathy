@@ -27,7 +27,7 @@
  <hr/>
 
 
-<h3 align="center">A passionate Data Science Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India</h3>
+<h3 align="center">A Passionate Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India</h3>
 
 <br/>
 
@@ -63,7 +63,6 @@
 
 
 <hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
