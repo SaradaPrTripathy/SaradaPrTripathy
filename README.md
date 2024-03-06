@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=SaradaPrasannaTripathy&label=Profile%20views&color=0e75b6&style=flat" alt="SaradaPrasannaTripathy" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=SaradaPT&label=Profile%20views&color=0e75b6&style=flat" alt="SaradaPT" /> </p>
 
 
 <h1 align="center">
@@ -71,14 +71,14 @@
 <br>
 <div align=center>
 
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaradaPrasannaTripathy&layout=compact&theme=blue-green)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SaradaPrasannaTripathy&theme=blue-green)](https://git.io/streak-stats)
-[![github stats](https://bad-apple-github-readme.vercel.app/api?username=SaradaPrasannaTripathy&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaradaPT&layout=compact&theme=blue-green)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SaradaPT&theme=blue-green)](https://git.io/streak-stats)
+[![github stats](https://bad-apple-github-readme.vercel.app/api?username=SaradaPT&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
  
 
- <!--  <img width=390 src="https://github-readme-stats.vercel.app/api?username=SaradaPrasannaTripathy&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaradaPrasannaTripathy&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> 
-[![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaradaPrasannaTripathy&layout=compact&theme=blue-green) -->
+ <!--  <img width=390 src="https://github-readme-stats.vercel.app/api?username=SaradaPT&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaradaPT&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> 
+[![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaradaPT&layout=compact&theme=blue-green) -->
 </div>
 
 <br/><br/>
