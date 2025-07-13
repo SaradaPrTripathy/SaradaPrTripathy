@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=SaradaPT&label=Profile%20views&color=0e75b6&style=flat" alt="SaradaPT" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=SaradaPrTripathy&label=Profile%20views&color=0e75b6&style=flat" alt="SaradaPrTripathy" /> </p>
 
 
 <h1 align="center">
