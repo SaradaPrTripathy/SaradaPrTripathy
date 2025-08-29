@@ -116,3 +116,8 @@
 <p align="center">
   ![Profile Views](https://komarev.com/ghpvc/?username=SaradaPrTripathy&color=blueviolet)
 </p>
+
+<p align="center">
+  <!-- Profile views -->
+  ![Profile Views](https://komarev.com/ghpvc/?username=SaradaPrTripathy&color=blueviolet)
+</p>
