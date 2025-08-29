@@ -34,21 +34,8 @@
 |----------|-------------|
 | [LinkedIn](https://www.linkedin.com/in/sarada-prasanna-tripathy20/) | Data science resources, interview strategies & job opportunities |
 | [Kaggle](https://www.kaggle.com/yourprofile) | Data science & AI projects |
-| [Medium](https://medium.com/@your-medium) | Articles & tutorials |
-| [Newsletter](https://your-newsletter-link) | AI & Data Science updates |
 
 ---
-
-## 💼 Open Source & Projects
-| Project | Description | Link |
-|---------|------------|------|
-| <a href="https://github.com/SaradaPrTripathy/python-for-all" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /></a> | Python For All | [Repo](https://github.com/SaradaPrTripathy/python-for-all) |
-| <a href="https://github.com/SaradaPrTripathy/python-for-data" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /></a> | Python For Data | [Repo](https://github.com/SaradaPrTripathy/python-for-data) |
-| <a href="https://github.com/SaradaPrTripathy/ml-projects" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" /></a> | Machine Learning Projects | [Repo](https://github.com/SaradaPrTripathy/ml-projects) |
-| <a href="https://github.com/SaradaPrTripathy/eda-projects" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" /></a> | EDA Projects | [Repo](https://github.com/SaradaPrTripathy/eda-projects) |
-| <a href="https://github.com/SaradaPrTripathy/time-series-projects" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /></a> | Time Series Projects | [Repo](https://github.com/SaradaPrTripathy/time-series-projects) |
-| <a href="https://github.com/SaradaPrTripathy/generative-ai" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" /></a> | Generative AI Projects | [Repo](https://github.com/SaradaPrTripathy/generative-ai) |
-
 ---
 
 #### ⚒️ Tech Stack & Tools
