@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+I'm+Sarada+Prasanna+Tripathy😀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi!+I'm+Sarada+Prasanna+Tripathy😀;Data+Scientist+|+ML+|+AI" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" />
 </p>
 
 <h3 align="center">My Data Science Portfolio</h3>
@@ -26,72 +30,50 @@
 |----------|-------------|
 | [LinkedIn](https://www.linkedin.com/in/sarada-prasanna-tripathy20/) | Data science resources, interview strategies & job opportunities |
 | [Kaggle](https://www.kaggle.com/yourprofile) | Data science & AI projects |
+| [Medium](https://medium.com/@your-medium) | Articles & tutorials |
+| [Newsletter](https://your-newsletter-link) | AI & Data Science updates |
 
 ---
 
 ## 💼 Open Source & Projects
-| Topic | Description |
-|-------|------------|
-| Resources & Services | Free e-books & notes on Data Science & AI |
-| Python For All | Exercises & notes on Python programming |
-| Python For Data | Python for data code & projects |
-| Azure Data Engineering | Code & resources for Big Data |
-| Big Data Engineering | Big Data projects & tutorials |
-| Machine Learning Projects | Real-world ML problem solutions |
-| Exploratory Data Analysis Projects | Python projects extracting insights from data |
-| Time Series Analysis Projects | Projects analyzing trends & forecasting |
-| Statistical Analysis Projects | Statistical pattern discovery |
-| Data Science Resources | Comprehensive notes simplifying key concepts |
-| Generative AI Projects | Projects exploring AI-generated content |
-| Visualization Projects | Interactive dashboards & visual storytelling |
-| End-to-End Projects | Complete deployment of DS projects |
+| Project | Description | Link |
+|---------|------------|------|
+| Python For All | Exercises & notes on Python | [Repo](https://github.com/SaradaPrTripathy/python-for-all) |
+| Python For Data | Python for data projects | [Repo](https://github.com/SaradaPrTripathy/python-for-data) |
+| Machine Learning Projects | Real-world ML problem solutions | [Repo](https://github.com/SaradaPrTripathy/ml-projects) |
+| EDA Projects | Extract insights from complex data | [Repo](https://github.com/SaradaPrTripathy/eda-projects) |
+| Time Series Projects | Analyze trends & forecast | [Repo](https://github.com/SaradaPrTripathy/time-series-projects) |
+| Generative AI Projects | AI-generated content & models | [Repo](https://github.com/SaradaPrTripathy/generative-ai) |
+| Visualization Projects | Interactive dashboards | [Repo](https://github.com/SaradaPrTripathy/visualization-projects) |
+| End-to-End Projects | Complete deployment of DS projects | [Repo](https://github.com/SaradaPrTripathy/end-to-end-projects) |
 
 ---
 
+## ⚒️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,scikit,matplotlib,seaborn,tensorflow,pytorch,opencv,aws,git,docker,jupyter,vscode,linux,mysql,postgresql,azure" />
+</p>
 
- 
-<hr/>
-<h3 align="left">⚒️Languages-Frameworks-Tools⚒️:</h3>
+---
 
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>   <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://gradio.app/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradio/gradio-original.svg" alt="gradio" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> </p>
+## 🎯 Hobbies & Interests
+- Singing 🎵  
+- Coding 💻  
+- AI & Tech exploration 🤖  
 
+---
 
+## 💰 Support Me
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/saradaprasy)
 
+---
 
-<!--<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+Visiting!+...+🔥;"/>
+## ⚡ GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaradaPrTripathy&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaradaPrTripathy&theme=radical" width="48%" />
+</p>
 
-</h1> -->
-
-### My Hobbies and interests:
-* Singing
-* Coding
-
-
-  ## 💰 You can support me if you liked my work by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/saradaprasy)
-
-
-<hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaradaPrTripathy&layout=compact&theme=blue-green)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SaradaPrTripathy&theme=blue-green)](https://git.io/streak-stats)
-[![github stats](https://bad-apple-github-readme.vercel.app/api?username=SaradaPrTripathy&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
- 
-
- <!--  <img width=390 src="https://github-readme-stats.vercel.app/api?username=SaradaPrTripathy&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaradaPrTripathy&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> 
-[![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaradaPT&layout=compact&theme=blue-green) -->
-</div>
-
-<br/><br/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SaradaPrTripathy&theme=radical&column=5"/>
+</p>
