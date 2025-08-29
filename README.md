@@ -26,10 +26,10 @@
   <a href="https://twitter.com/SPTripathy899" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/yourusername" target="_blank">
+  <a href="https://www.instagram.com/saradaprtripathy" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="saradatripathy972@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -40,8 +40,8 @@
 | Platform | Description |
 |----------|-------------|
 | [LinkedIn](https://www.linkedin.com/in/sarada-prasanna-tripathy20/) | Data science resources, interview strategies & job opportunities |
-| [Kaggle](https://www.kaggle.com/yourprofile) | Data science & AI projects |
-| [Instagram](https://www.instagram.com/yourusername) | AI, ML, Data Science updates & tutorials |
+| [Kaggle](https://www.kaggle.com/yourprofile) |Data science & AI projects |
+| [Instagram](https://www.instagram.com/username) | AI, ML, Data Science updates & tutorials |
 | [Twitter](https://twitter.com/SPTripathy899) | Quick tips & project showcases |
 
 ---
