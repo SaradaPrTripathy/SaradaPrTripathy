@@ -1,46 +1,53 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=SaradaPrTripathy&label=Profile%20views&color=0e75b6&style=flat" alt="SaradaPrTripathy" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+I'm+Sarada+Prasanna+Tripathy😀" />
+</p>
 
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+Nice+to+see+you+...+;+I'm+Sarada😀!;" />
-</h1>
-
- <div align="center">
-  <img height="250" src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDMxNjQyNTYsIm5iZiI6MTcwMzE2Mzk1NiwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjIxVDEzMDU1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZkNzQ4OTI5OWYzN2NjOGMwMTc5ZmQ2YmY5MWQzMjY0YWY3MzA1MjdmNmQ1ZmU1NjRiNmRlMmViODVlMWIwMDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.OmvQBXyC4o8aO7D7qluYW4f08TD3QTUhxKiY74Ww5UU" />
-</div>
-
-<div align="center"> 
-  <a href="mailto:" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-</a>
-  <a href="https://www.linkedin.com/in/sarada-prasanna-tripathy20//" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-    <a href="https://twitter.com/SPTripathy899" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-007785?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://bio.link/saradapr" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
- <hr/>
-
-
-<h3 align="center">A Passionate Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India</h3>
-
-<br/>
+<h3 align="center">My Data Science Portfolio</h3>
 
 <div align="center">
- 
- <p>🔭 I like to collaborate with people😊<img height="20" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" />. </p>
- 
- 
- 🌱 I’m currently learning **AWS**
+  <a href="https://bio.link/saradapr">
+    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sarada-prasanna-tripathy20/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/SPTripathy899">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-💬 Ask me about **Python, Machine learning , SQL... or anything [here](https://www.linkedin.com/in/sarada-prasanna-tripathy20)**
+---
 
- </div>
+## 🔗 Connect with me
+| Platform | Description |
+|----------|-------------|
+| [LinkedIn](https://www.linkedin.com/in/sarada-prasanna-tripathy20/) | Data science resources, interview strategies & job opportunities |
+| [Kaggle](https://www.kaggle.com/yourprofile) | Data science & AI projects |
+
+---
+
+## 💼 Open Source & Projects
+| Topic | Description |
+|-------|------------|
+| Resources & Services | Free e-books & notes on Data Science & AI |
+| Python For All | Exercises & notes on Python programming |
+| Python For Data | Python for data code & projects |
+| Azure Data Engineering | Code & resources for Big Data |
+| Big Data Engineering | Big Data projects & tutorials |
+| Machine Learning Projects | Real-world ML problem solutions |
+| Exploratory Data Analysis Projects | Python projects extracting insights from data |
+| Time Series Analysis Projects | Projects analyzing trends & forecasting |
+| Statistical Analysis Projects | Statistical pattern discovery |
+| Data Science Resources | Comprehensive notes simplifying key concepts |
+| Generative AI Projects | Projects exploring AI-generated content |
+| Visualization Projects | Interactive dashboards & visual storytelling |
+| End-to-End Projects | Complete deployment of DS projects |
+
+---
+
 
  
 <hr/>
