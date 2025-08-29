@@ -36,16 +36,6 @@
 
 ---
 
-## 🔗 Connect with me
-| Platform | Description |
-|----------|-------------|
-| [LinkedIn](https://www.linkedin.com/in/sarada-prasanna-tripathy20/) | Data science resources, interview strategies & job opportunities |
-| [Kaggle](https://www.kaggle.com/yourprofile) |Data science & AI projects |
-| [Instagram](https://www.instagram.com/username) | AI, ML, Data Science updates & tutorials |
-| [Twitter](https://twitter.com/SPTripathy899) | Quick tips & project showcases |
-
----
-
 ## 💼 Open Source & Projects
 | Topic | Description |
 |-------|------------|
