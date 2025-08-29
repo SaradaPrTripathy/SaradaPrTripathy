@@ -3,6 +3,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi!+I'm+Sarada+Prasanna+Tripathy😀;Data+Scientist+|+ML+|+AI" />
   </a>
 </p>
+<p align="center">
+  <!-- Profile Views at the very top -->
+  ![Profile Views](https://komarev.com/ghpvc/?username=SaradaPrTripathy&color=blueviolet)
+</p>
 
 <p align="center">
   <a href="https://bio.link/saradapr" target="_blank">
@@ -113,11 +117,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=SaradaPrTripathy&theme=radical&column=5"/>
 </p>
 
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=SaradaPrTripathy&color=blueviolet)
-</p>
-
-<p align="center">
-  <!-- Profile views -->
-  ![Profile Views](https://komarev.com/ghpvc/?username=SaradaPrTripathy&color=blueviolet)
-</p>
