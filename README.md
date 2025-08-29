@@ -59,7 +59,6 @@
 | Visualization Projects | Interactive dashboards & visual storytelling |
 | End-to-End Projects | Complete deployment of DS projects |
 
-
 ---
 
 ## ⚒️ Tech Stack & Tools
@@ -99,31 +98,21 @@
 
 ---
 
----
-
----
-
----
-
 ## ⚡ GitHub Stats & Insights
-
 <p align="center">
-  <!-- Overall GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SaradaPrTripathy&show_icons=true&theme=radical&count_private=true&hide=prs" width="48%" />
-  
-  <!-- Contribution heatmap (when you code most) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SaradaPrTripathy&show_icons=true&theme=radical&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaradaPrTripathy&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <!-- Top languages used across projects -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaradaPrTripathy&layout=compact&theme=radical&langs_count=10" width="48%" />
-  
-  <!-- Most starred repositories / concepts -->
   <img src="https://github-readme-stats.vercel.app/api/repos-per-language/?username=SaradaPrTripathy&layout=compact&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <!-- GitHub trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=SaradaPrTripathy&theme=radical&column=5"/>
+</p>
+
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=SaradaPrTripathy&color=blueviolet)
 </p>
