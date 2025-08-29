@@ -22,6 +22,9 @@
   <a href="https://twitter.com/SPTripathy899" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="mailto:your-email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -34,31 +37,51 @@
 |----------|-------------|
 | [LinkedIn](https://www.linkedin.com/in/sarada-prasanna-tripathy20/) | Data science resources, interview strategies & job opportunities |
 | [Kaggle](https://www.kaggle.com/yourprofile) | Data science & AI projects |
+| [Instagram](https://www.instagram.com/yourusername) | AI, ML, Data Science updates & tutorials |
+| [Twitter](https://twitter.com/SPTripathy899) | Quick tips & project showcases |
 
 ---
+
+## 💼 Open Source & Projects
+| Topic | Description |
+|-------|------------|
+| Resources & Services | Free e-books & notes on Data Science & AI |
+| Python For All | Exercises & notes on Python programming |
+| Python For Data | Python for data code & projects |
+| Azure Data Engineering | Code & resources for Big Data |
+| Big Data Engineering | Big Data projects & tutorials |
+| Machine Learning Projects | Real-world ML problem solutions |
+| Exploratory Data Analysis Projects | Python projects extracting insights from data |
+| Time Series Analysis Projects | Projects analyzing trends & forecasting |
+| Statistical Analysis Projects | Statistical pattern discovery |
+| Data Science Resources | Comprehensive notes simplifying key concepts |
+| Generative AI Projects | Projects exploring AI-generated content |
+| Visualization Projects | Interactive dashboards & visual storytelling |
+| End-to-End Projects | Complete deployment of DS projects |
+
+
 ---
 
-#### ⚒️ Tech Stack & Tools
+## ⚒️ Tech Stack & Tools
 <p align="center">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python" /></a>
   <a href="https://numpy.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" title="NumPy" /></a>
   <a href="https://pandas.pydata.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" title="Pandas" /></a>
   <a href="https://matplotlib.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" title="Matplotlib" /></a>
+  <a href="https://seaborn.pydata.org" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" title="Seaborn" /></a>
   <a href="https://scikit-learn.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" title="Scikit-Learn" /></a>
   <a href="https://keras.io" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" title="Keras" /></a>
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" title="TensorFlow" /></a>
+  <a href="https://pytorch.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" title="PyTorch" /></a>
   <a href="https://openai.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" width="40" title="OpenAI" /></a>
   <a href="https://chat.openai.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" title="ChatGPT" /></a>
-  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" title="HTML5" /></a>
-  <a href="https://seaborn.pydata.org" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" title="Seaborn" /></a>
   <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_logo.svg" width="40" title="PowerBI" /></a>
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure_Logo.svg" width="40" title="Azure" /></a>
-  <a href="https://www.oracle.com/database/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" title="Oracle" /></a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" width="40" title="Excel" /></a>
+  <a href="https://www.oracle.com/database/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" title="Oracle" /></a>
   <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Machine_learning.png" width="40" title="Machine Learning" /></a>
   <a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Deep_learning.png" width="40" title="Deep Learning" /></a>
 </p>
-
 
 ---
 
@@ -76,12 +99,31 @@
 
 ---
 
-## ⚡ GitHub Stats
+---
+
+---
+
+---
+
+## ⚡ GitHub Stats & Insights
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaradaPrTripathy&show_icons=true&theme=radical" width="48%" />
+  <!-- Overall GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SaradaPrTripathy&show_icons=true&theme=radical&count_private=true&hide=prs" width="48%" />
+  
+  <!-- Contribution heatmap (when you code most) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaradaPrTripathy&theme=radical" width="48%" />
 </p>
 
 <p align="center">
+  <!-- Top languages used across projects -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaradaPrTripathy&layout=compact&theme=radical&langs_count=10" width="48%" />
+  
+  <!-- Most starred repositories / concepts -->
+  <img src="https://github-readme-stats.vercel.app/api/repos-per-language/?username=SaradaPrTripathy&layout=compact&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <!-- GitHub trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=SaradaPrTripathy&theme=radical&column=5"/>
 </p>
